@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\3_MiSuma\3_Misuma\3_Misuma\bin\Debug\3_Misuma.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\3_MiSuma\3_Misuma\3_Misuma\bin\Debug\3_Misuma.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\3_MiSuma\3_Misuma\3_Misuma\bin\Debug\3_Misuma.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\3_MiSuma\3_Misuma\3_Misuma\obj\Debug\3_Misuma.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\3_MiSuma\3_Misuma\3_Misuma\obj\Debug\3_Misuma.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\3_MiSuma\3_Misuma\3_Misuma\obj\Debug\3_Misuma.pdb

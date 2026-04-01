@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

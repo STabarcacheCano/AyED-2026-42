@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\23_CapacidadHDD\23_CapaciadadHDD\23_CapaciadadHDD\bin\Debug\23_CapaciadadHDD.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\23_CapacidadHDD\23_CapaciadadHDD\23_CapaciadadHDD\bin\Debug\23_CapaciadadHDD.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\23_CapacidadHDD\23_CapaciadadHDD\23_CapaciadadHDD\bin\Debug\23_CapaciadadHDD.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\23_CapacidadHDD\23_CapaciadadHDD\23_CapaciadadHDD\obj\Debug\23_CapaciadadHDD.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\23_CapacidadHDD\23_CapaciadadHDD\23_CapaciadadHDD\obj\Debug\23_CapaciadadHDD.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\23_CapacidadHDD\23_CapaciadadHDD\23_CapaciadadHDD\obj\Debug\23_CapaciadadHDD.pdb

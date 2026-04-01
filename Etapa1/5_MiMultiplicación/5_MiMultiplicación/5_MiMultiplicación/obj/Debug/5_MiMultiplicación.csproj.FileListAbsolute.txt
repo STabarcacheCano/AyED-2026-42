@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\5_MiMultiplicación\5_MiMultiplicación\5_MiMultiplicación\bin\Debug\5_MiMultiplicación.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\5_MiMultiplicación\5_MiMultiplicación\5_MiMultiplicación\bin\Debug\5_MiMultiplicación.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\5_MiMultiplicación\5_MiMultiplicación\5_MiMultiplicación\bin\Debug\5_MiMultiplicación.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\5_MiMultiplicación\5_MiMultiplicación\5_MiMultiplicación\obj\Debug\5_MiMultiplicación.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\5_MiMultiplicación\5_MiMultiplicación\5_MiMultiplicación\obj\Debug\5_MiMultiplicación.pdb

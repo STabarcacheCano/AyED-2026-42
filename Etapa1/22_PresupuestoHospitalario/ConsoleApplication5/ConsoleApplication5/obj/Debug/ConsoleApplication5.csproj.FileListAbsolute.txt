@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\22_PresupuestoHospitalario\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\22_PresupuestoHospitalario\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\22_PresupuestoHospitalario\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\22_PresupuestoHospitalario\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\22_PresupuestoHospitalario\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\22_PresupuestoHospitalario\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

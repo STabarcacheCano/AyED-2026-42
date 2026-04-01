@@ -1,0 +1,2 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\Etapa0\11_AlReves\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
