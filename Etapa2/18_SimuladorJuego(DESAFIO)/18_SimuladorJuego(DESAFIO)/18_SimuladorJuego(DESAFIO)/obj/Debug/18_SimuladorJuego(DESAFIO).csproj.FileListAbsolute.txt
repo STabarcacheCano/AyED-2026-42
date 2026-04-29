@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa2\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\bin\Debug\18_SimuladorJuego(DESAFIO).exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa2\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\obj\Debug\18_SimuladorJuego(DESAFIO).csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa2\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\bin\Debug\18_SimuladorJuego(DESAFIO).exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa2\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\bin\Debug\18_SimuladorJuego(DESAFIO).pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa2\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\obj\Debug\18_SimuladorJuego(DESAFIO).exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa2\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\18_SimuladorJuego(DESAFIO)\obj\Debug\18_SimuladorJuego(DESAFIO).pdb
