@@ -13,6 +13,7 @@ namespace _19_BlackJack
             int puntaje_del_jugador = 0;
             int puntaje_del_crupier = 0;
             int carta_obtenida = 0;
+            int carta_obtenida_crupier = 0;
             int partidas_ganadas = 0;
             int partidas_perdidas = 0;
             int partidas_empatadas = 0;
@@ -26,12 +27,12 @@ namespace _19_BlackJack
             while (jugar == true)
             {
 
-                while (juego_activo == true)
+                while ((juego_activo == true))
                 {
                     Console.Clear();
                     Console.WriteLine("===== BLACKJACK SIMPLE =====");
                     Console.WriteLine("Puntaje del jugador: " + puntaje_del_jugador);
-                    if (jugador_planteado == true)
+                    if ((jugador_planteado == true) || ((puntaje_del_jugador > 21) || ((crupier_planteado == true && (puntaje_del_crupier <= 21 && puntaje_del_jugador < puntaje_del_crupier)))) || (crupier_planteado == true && puntaje_del_jugador == puntaje_del_crupier))
                     {
                         Console.WriteLine("Puntaje del crupier: " + puntaje_del_crupier);
                     }
@@ -39,8 +40,6 @@ namespace _19_BlackJack
                     {
                         Console.WriteLine("Puntaje del crupier: Oculto");
                     }
-                    Console.WriteLine("");
-                    Console.WriteLine("Turno del crupier.");
                     Console.WriteLine("");
                     Console.WriteLine("1. Pedir carta");
                     Console.WriteLine("2. Plantarse");
@@ -55,37 +54,30 @@ namespace _19_BlackJack
                     {
                         case 1:
 
-                            if (jugador_planteado == true)
-                            {
-                                Random valor = new Random();
-                                carta_obtenida = valor.Next(1, 11);
-                                puntaje_del_crupier += carta_obtenida;
-                                cantidad_de_cartas_pedidas_del_crupier++;
-                            }
-                            else
-                            {
-                                Random valor = new Random();
-                                carta_obtenida = valor.Next(1, 11);
-                                puntaje_del_jugador += carta_obtenida;
-                                cantidad_de_cartas_pedidas_del_jugador++;
-                            }
+                            Random valor = new Random();
+                            carta_obtenida = valor.Next(1, 11);
+                            puntaje_del_jugador += carta_obtenida;
+                            cantidad_de_cartas_pedidas_del_jugador++;
                             break;
 
                         case 2:
+
+                            while (puntaje_del_crupier < 17)
+                            {
+                                Random valor_crupier = new Random();
+                                carta_obtenida_crupier = valor_crupier.Next(1, 11);
+                                puntaje_del_crupier += carta_obtenida_crupier;
+                                cantidad_de_cartas_pedidas_del_crupier++;
+                            }
+
+                            crupier_planteado = true;
 
                             if (jugador_planteado == false)
                             {
                                 jugador_planteado = true;
                             }
-                            else if (puntaje_del_crupier >= 17)
-                            {
-                                crupier_planteado = true;
-                            }
-                            else
-                            {
-                                Console.Clear();
-                                Console.WriteLine("No se puede plantar.");
-                            }
+
+
                             break;
 
                         case 3:
@@ -129,90 +121,81 @@ namespace _19_BlackJack
                             juego_activo = false;
                             break;
 
-
-
-
                     }
-
-                    if ((puntaje_del_crupier > 21) || ((crupier_planteado == true && (puntaje_del_jugador <= 21 && puntaje_del_jugador > puntaje_del_crupier))))
+                    if (puntaje_del_jugador > 21 || jugador_planteado == true)
                     {
 
-                        juego_activo = false;
-                        Console.Clear();
-                        Console.WriteLine("Gano el jugador.");
-                        partidas_ganadas++;
+                        if (puntaje_del_jugador > 21 || jugador_planteado == true && puntaje_del_jugador < puntaje_del_crupier && puntaje_del_crupier <= 21)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Ganó el crupier");
+                            partidas_perdidas++;
+                            juego_activo = false;
 
+                        }
+                        else if (puntaje_del_crupier > 21 || jugador_planteado == true && puntaje_del_jugador > puntaje_del_crupier && puntaje_del_jugador <= 21)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Ganó el jugador");
+                            partidas_ganadas++;
+                            juego_activo = false;
+                        }
+                        else
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Empataron");
+                            partidas_empatadas++;
+                            juego_activo = false;
+                        }
                     }
+                    
 
-                    if ((puntaje_del_jugador > 21) || ((crupier_planteado == true && (puntaje_del_crupier <= 21 && puntaje_del_jugador < puntaje_del_crupier))))
-                    {
-                        juego_activo = false;
-                        Console.Clear();
-                        Console.WriteLine("Gano el crupier");
-                        partidas_perdidas++;
-                    }
-
-                    if (crupier_planteado == true && puntaje_del_jugador == puntaje_del_crupier)
-                    {
-                        juego_activo = false;
-                        Console.Clear();
-                        Console.WriteLine("Empate");
-                        partidas_empatadas++;
-                    }
-
-                }
-
-                Console.WriteLine("Puntaje del jugador: " + puntaje_del_jugador);
-                if (jugador_planteado == true)
-                {
-                    Console.WriteLine("Puntaje del crupier: " + puntaje_del_crupier);
-                }
-                else
-                {
-                    Console.WriteLine("Puntaje del crupier: Oculto");
-                }
-                Console.WriteLine("");
-                Console.WriteLine("Cartas pedidas por el jugador: " + cantidad_de_cartas_pedidas_del_jugador);
-                Console.WriteLine("Cartas pedidas por el crupier: " + cantidad_de_cartas_pedidas_del_crupier);
-                Console.WriteLine("");
-                Console.WriteLine("Partidas ganadas: " + partidas_ganadas);
-                Console.WriteLine("Partidas perdidas: " + partidas_perdidas);
-                Console.WriteLine("Partidas empatadas: " + partidas_empatadas);
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("Volver a jugar");
-                Console.WriteLine("1) Sí");
-                Console.WriteLine("2) No");
-                Console.WriteLine("");
-                Console.Write("Escribir opcíon: ");
-                int volver_jugar = int.Parse(Console.ReadLine());
-
-                switch (volver_jugar)
-                {
-                    case 1:
-                        Console.Clear();
-                        juego_activo = true;
-                        puntaje_del_crupier = 0;
-                        puntaje_del_jugador = 0;
-                        cantidad_de_cartas_pedidas_del_jugador = 0;
-                        cantidad_de_cartas_pedidas_del_crupier = 0;
-                        jugador_planteado = false;
-                        crupier_planteado = false;
-
-                        break;
-
-                    case 2:
-
-                        jugar = false;
-                        Console.Clear();
-                        Console.Write("Juego terminado.");
-
-                        break;
-
-                }
             }
 
+            Console.WriteLine("Puntaje del jugador: " + puntaje_del_jugador);
+            Console.WriteLine("Puntaje del crupier: " + puntaje_del_crupier);
+            Console.WriteLine("");
+            Console.WriteLine("Cartas pedidas por el jugador: " + cantidad_de_cartas_pedidas_del_jugador);
+            Console.WriteLine("Cartas pedidas por el crupier: " + cantidad_de_cartas_pedidas_del_crupier);
+            Console.WriteLine("");
+            Console.WriteLine("Partidas ganadas: " + partidas_ganadas);
+            Console.WriteLine("Partidas perdidas: " + partidas_perdidas);
+            Console.WriteLine("Partidas empatadas: " + partidas_empatadas);
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Volver a jugar");
+            Console.WriteLine("1) Sí");
+            Console.WriteLine("2) No");
+            Console.WriteLine("");
+            Console.Write("Escribir opcíon: ");
+            int volver_jugar = int.Parse(Console.ReadLine());
 
+            switch (volver_jugar)
+            {
+                case 1:
+                    Console.Clear();
+                    juego_activo = true;
+                    puntaje_del_crupier = 0;
+                    puntaje_del_jugador = 0;
+                    cantidad_de_cartas_pedidas_del_jugador = 0;
+                    cantidad_de_cartas_pedidas_del_crupier = 0;
+                    jugador_planteado = false;
+                    crupier_planteado = false;
+
+                    break;
+
+                case 2:
+
+                    jugar = false;
+                    Console.Clear();
+                    Console.Write("Juego terminado.");
+
+                    break;
+
+            }
+        } 
+
+    
             Console.ReadKey();
         }
     }
