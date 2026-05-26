@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\3_HotSale\3_HotSale\3_HotSale\bin\Debug\3_HotSale.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\3_HotSale\3_HotSale\3_HotSale\bin\Debug\3_HotSale.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\3_HotSale\3_HotSale\3_HotSale\bin\Debug\3_HotSale.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\3_HotSale\3_HotSale\3_HotSale\obj\Debug\3_HotSale.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\3_HotSale\3_HotSale\3_HotSale\obj\Debug\3_HotSale.pdb
