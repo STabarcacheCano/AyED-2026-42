@@ -11,7 +11,8 @@ namespace _4_PixelDreams
         static void Main(string[] args)
         {
             Console.Write("Ingresar cantidad de participantes : ");
-            int[] participantes = new int[int.Parse(Console.ReadLine())];
+            int cantidad_participantes = int.Parse(Console.ReadLine());
+            int[] participantes = new int[cantidad_participantes];
 
             for (int i = 0; i < participantes.Length; i++)
             {
@@ -25,12 +26,25 @@ namespace _4_PixelDreams
             Console.Write("La lista de los puntos ordenados son: ");
             foreach (int punto in participantes)
             {
-                Console.Write(punto + ", ");
+                Console.Write(punto + " ");
             }
             Console.WriteLine("");
-            Console.WriteLine("El puntaje mayor fue: " + participantes[participantes.Length]);
-            Console.WriteLine("El puntaje menor fue: " + participantes[0]);
+            int puntaje_bajo = participantes[0];
+            int puntaje_mayor = participantes[0];
 
+            for (int i = 1; i < participantes.Length; i++)
+            {
+                if (participantes[i] > puntaje_mayor)
+                {
+                    puntaje_mayor = participantes[i];
+                }
+                if (participantes[i] < puntaje_bajo)
+                {
+                    puntaje_bajo = participantes[i];
+                }
+            }
+            Console.WriteLine("El puntaje más alto es: " + puntaje_mayor);
+            Console.WriteLine("El puntaje más bajo es: " + puntaje_bajo);
             Console.ReadKey();
         }
     }
