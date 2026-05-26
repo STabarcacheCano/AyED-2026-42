@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\4_PixelDreams\4_PixelDreams\4_PixelDreams\bin\Debug\4_PixelDreams.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\4_PixelDreams\4_PixelDreams\4_PixelDreams\bin\Debug\4_PixelDreams.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\4_PixelDreams\4_PixelDreams\4_PixelDreams\bin\Debug\4_PixelDreams.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\4_PixelDreams\4_PixelDreams\4_PixelDreams\obj\Debug\4_PixelDreams.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\4_PixelDreams\4_PixelDreams\4_PixelDreams\obj\Debug\4_PixelDreams.pdb
