@@ -31,6 +31,9 @@ namespace _5_CentroPM
                 Console.WriteLine("8. Mostrar el pokémon con menor vida");
                 Console.WriteLine("9. Calcular promedio de vida del equipo");
                 Console.WriteLine("10. Ordenar pokemones por vida de menor a mayor");
+                Console.WriteLine("11. Ordenar pokemones por vida de mayor a menor");
+                Console.WriteLine("12. Simular ataque enemigo a todo el equipo");
+                Console.WriteLine("13. Salir");
                 Console.WriteLine("");
                 Console.Write("Ingresar el número de opción elegida: ");
                 opción = int.Parse(Console.ReadLine());
@@ -259,7 +262,6 @@ namespace _5_CentroPM
                         Console.Clear();
                         Array.Sort(Pokemones);
 
-                        Console.Clear();
                         Console.WriteLine("Vidas ordenadas de menor a mayor: ");
                         foreach (int vidas in Pokemones)
                         {
@@ -268,9 +270,47 @@ namespace _5_CentroPM
 
                         Console.ReadKey();
                         break;
+
+                    case 11:
+                        Console.Clear();
+                        Array.Reverse(Pokemones);
+                        
+                        Console.WriteLine("Vidas ordenadas de mayor a menor: ");
+                        foreach (int vidas in Pokemones)
+                        {
+                            Console.WriteLine(vidas);
+                        }
+
+                        Console.ReadKey();
+                        break;
+
+                    case 12:
+
+                        Console.Clear();
+                        Random valor = new Random();
+                        int ataque = valor.Next(5, 25);
+                        for (int i = 1; i < cantidad_registrados; i++)
+                        {
+                            Pokemones[i] -= ataque;
+
+                            if (Pokemones[i] < 0)
+                            {
+                                int sumar = Pokemones[i] * -1;
+                                Pokemones[i] += sumar;
+                            }
+                        }
+                        Console.WriteLine("¡Un pokémon salvaje atacó al equipo!");
+                        Console.WriteLine("Daño recibido por todos: "+ ataque);
+                        Console.WriteLine(" ");
+                        Console.WriteLine("Las vidas fueron actualizadas.");
+
+                        Console.ReadKey();
+                        break;
                 }
             }
-           
+            Console.Clear();
+            Console.WriteLine("Gracias por utilizar el sistema del Centro Poké-Remedio.");
+            Console.ReadKey();
         }
     }
 }
