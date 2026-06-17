@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\6_MiPrimerMatriz\obj\Debug\6_MiPrimerMatriz.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\6_MiPrimerMatriz\obj\Debug\6_MiPrimerMatriz.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\6_MiPrimerMatriz\obj\Debug\6_MiPrimerMatriz.pdb
