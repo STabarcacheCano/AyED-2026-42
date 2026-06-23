@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\11_CalificacionesEstudiantes\11_CalificacionesEstudiantes\bin\Debug\11_CalificacionesEstudiantes.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\11_CalificacionesEstudiantes\11_CalificacionesEstudiantes\bin\Debug\11_CalificacionesEstudiantes.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\11_CalificacionesEstudiantes\11_CalificacionesEstudiantes\bin\Debug\11_CalificacionesEstudiantes.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\11_CalificacionesEstudiantes\11_CalificacionesEstudiantes\obj\Debug\11_CalificacionesEstudiantes.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\11_CalificacionesEstudiantes\11_CalificacionesEstudiantes\obj\Debug\11_CalificacionesEstudiantes.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\11_CalificacionesEstudiantes\11_CalificacionesEstudiantes\obj\Debug\11_CalificacionesEstudiantes.pdb
