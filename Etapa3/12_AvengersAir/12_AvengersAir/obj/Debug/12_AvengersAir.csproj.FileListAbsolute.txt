@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\12_AvengersAir\12_AvengersAir\bin\Debug\12_AvengersAir.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\12_AvengersAir\12_AvengersAir\bin\Debug\12_AvengersAir.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\12_AvengersAir\12_AvengersAir\bin\Debug\12_AvengersAir.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\12_AvengersAir\12_AvengersAir\obj\Debug\12_AvengersAir.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\12_AvengersAir\12_AvengersAir\obj\Debug\12_AvengersAir.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\12_AvengersAir\12_AvengersAir\obj\Debug\12_AvengersAir.csprojResolveAssemblyReference.cache
