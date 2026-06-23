@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_DiagonalPrincipal\10_DiagonalPrincipal\bin\Debug\10_DiagonalPrincipal.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_DiagonalPrincipal\10_DiagonalPrincipal\bin\Debug\10_DiagonalPrincipal.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_DiagonalPrincipal\10_DiagonalPrincipal\bin\Debug\10_DiagonalPrincipal.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_DiagonalPrincipal\10_DiagonalPrincipal\obj\Debug\10_DiagonalPrincipal.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_DiagonalPrincipal\10_DiagonalPrincipal\obj\Debug\10_DiagonalPrincipal.pdb
