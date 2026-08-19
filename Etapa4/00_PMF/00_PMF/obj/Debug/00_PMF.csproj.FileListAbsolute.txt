@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\00_PMF\00_PMF\bin\Debug\00_PMF.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\00_PMF\00_PMF\obj\Debug\00_PMF.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\00_PMF\00_PMF\bin\Debug\00_PMF.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\00_PMF\00_PMF\bin\Debug\00_PMF.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\00_PMF\00_PMF\obj\Debug\00_PMF.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\00_PMF\00_PMF\obj\Debug\00_PMF.pdb
