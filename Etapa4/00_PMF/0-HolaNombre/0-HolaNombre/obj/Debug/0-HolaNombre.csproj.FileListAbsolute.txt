@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\0-HolaNombre\0-HolaNombre\bin\Debug\0-HolaNombre.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\0-HolaNombre\0-HolaNombre\bin\Debug\0-HolaNombre.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\0-HolaNombre\0-HolaNombre\bin\Debug\0-HolaNombre.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\0-HolaNombre\0-HolaNombre\obj\Debug\0-HolaNombre.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\0-HolaNombre\0-HolaNombre\obj\Debug\0-HolaNombre.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\0-HolaNombre\0-HolaNombre\obj\Debug\0-HolaNombre.pdb
