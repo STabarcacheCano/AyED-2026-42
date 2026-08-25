@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\1_Sumando2Numeros\1_Sumando2Numeros\bin\Debug\1_Sumando2Numeros.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\1_Sumando2Numeros\1_Sumando2Numeros\bin\Debug\1_Sumando2Numeros.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\1_Sumando2Numeros\1_Sumando2Numeros\bin\Debug\1_Sumando2Numeros.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\1_Sumando2Numeros\1_Sumando2Numeros\obj\Debug\1_Sumando2Numeros.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\1_Sumando2Numeros\1_Sumando2Numeros\obj\Debug\1_Sumando2Numeros.pdb
