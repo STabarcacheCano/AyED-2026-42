@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\2_Calculando\2_Calculando\bin\Debug\2_Calculando.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\2_Calculando\2_Calculando\bin\Debug\2_Calculando.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\2_Calculando\2_Calculando\bin\Debug\2_Calculando.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\2_Calculando\2_Calculando\obj\Debug\2_Calculando.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\2_Calculando\2_Calculando\obj\Debug\2_Calculando.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\2_Calculando\2_Calculando\obj\Debug\2_Calculando.csprojResolveAssemblyReference.cache
