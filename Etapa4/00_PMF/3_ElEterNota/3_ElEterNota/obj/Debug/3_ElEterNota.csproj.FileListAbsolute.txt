@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\3_ElEterNota\3_ElEterNota\bin\Debug\3_ElEterNota.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\3_ElEterNota\3_ElEterNota\obj\Debug\3_ElEterNota.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\3_ElEterNota\3_ElEterNota\bin\Debug\3_ElEterNota.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\3_ElEterNota\3_ElEterNota\bin\Debug\3_ElEterNota.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\3_ElEterNota\3_ElEterNota\obj\Debug\3_ElEterNota.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\3_ElEterNota\3_ElEterNota\obj\Debug\3_ElEterNota.pdb
