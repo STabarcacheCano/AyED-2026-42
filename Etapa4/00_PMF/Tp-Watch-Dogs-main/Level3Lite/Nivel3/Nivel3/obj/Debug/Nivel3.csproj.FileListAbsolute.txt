@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level3Lite\Nivel3\Nivel3\bin\Debug\Nivel3.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level3Lite\Nivel3\Nivel3\bin\Debug\Nivel3.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level3Lite\Nivel3\Nivel3\bin\Debug\Nivel3.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level3Lite\Nivel3\Nivel3\obj\Debug\Nivel3.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level3Lite\Nivel3\Nivel3\obj\Debug\Nivel3.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level3Lite\Nivel3\Nivel3\obj\Debug\Nivel3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level2Lite\Nivel2\Nivel2\bin\Debug\Nivel2.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level2Lite\Nivel2\Nivel2\bin\Debug\Nivel2.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level2Lite\Nivel2\Nivel2\bin\Debug\Nivel2.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level2Lite\Nivel2\Nivel2\obj\Debug\Nivel2.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Tp-Watch-Dogs-main\Level2Lite\Nivel2\Nivel2\obj\Debug\Nivel2.pdb
