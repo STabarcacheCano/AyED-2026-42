@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\5_Balatrito\5_Balatrito\bin\Debug\5_Balatrito.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\5_Balatrito\5_Balatrito\bin\Debug\5_Balatrito.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\5_Balatrito\5_Balatrito\bin\Debug\5_Balatrito.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\5_Balatrito\5_Balatrito\obj\Debug\5_Balatrito.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\5_Balatrito\5_Balatrito\obj\Debug\5_Balatrito.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa4\5_Balatrito\5_Balatrito\obj\Debug\5_Balatrito.pdb
