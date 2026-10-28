@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\0_Eternauta\0_Eternauta\bin\Debug\0_Eternauta.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\0_Eternauta\0_Eternauta\bin\Debug\0_Eternauta.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\0_Eternauta\0_Eternauta\bin\Debug\0_Eternauta.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\0_Eternauta\0_Eternauta\obj\Debug\0_Eternauta.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\0_Eternauta\0_Eternauta\obj\Debug\0_Eternauta.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\0_Eternauta\0_Eternauta\obj\Debug\0_Eternauta.pdb

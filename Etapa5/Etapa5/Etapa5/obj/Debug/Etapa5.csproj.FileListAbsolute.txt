@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\Etapa5\Etapa5\bin\Debug\Etapa5.exe.config
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\Etapa5\Etapa5\bin\Debug\Etapa5.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\Etapa5\Etapa5\bin\Debug\Etapa5.pdb
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\Etapa5\Etapa5\obj\Debug\Etapa5.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\Etapa5\Etapa5\obj\Debug\Etapa5.exe
+C:\Users\Lab AyED\Documents\9_TabarcacheCano\AyED-2026-42\Etapa5\Etapa5\Etapa5\obj\Debug\Etapa5.pdb
