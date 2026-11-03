@@ -18,7 +18,7 @@ namespace _10_Rectangulo
             float area = alto * ancho;
             float a = ancho * ancho + alto * alto;
             double diagonal = Math.Sqrt(a);
-            Console.WriteLine("El perimetro del triangulo es: " + perimetro);
+            Console.WriteLine("El perimetro del rectangulo es: " + perimetro);
             Console.WriteLine("El area del rectangulo es: " + area);
             Console.Write("Su diagonal es de: " + diagonal);
             Console.ReadKey();
