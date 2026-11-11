@@ -10,29 +10,29 @@ namespace _2_VueltaAClases
     {
         static void Main(string[] args)
         {
-            Console.Write("Ingresar cantidad de TPs : ");
-            int[] TPs = new int[(int.Parse(Console.ReadLine()))];
+            Console.Write("Ingresar cantidad de TPs: ");
+            int[] TPs = new int[int.Parse(Console.ReadLine())];
 
-            Console.Write("Ingresar cantidad de Examenes : ");
-            int[] examenes = new int[(int.Parse(Console.ReadLine()))];
+            Console.Write("Ingresar cantidad de Examenes: ");
+            int[] examenes = new int[int.Parse(Console.ReadLine())];
 
             int suma_examenes = 0;
 
             for (int i = 0; i < examenes.Length; i++)
             {
-                Console.Write("Ingresar nota de la prueba " + (i + 1) + " : ");
+                Console.Write("Ingresar nota del examen " + (i + 1) + ": ");
                 int nota = int.Parse(Console.ReadLine());
 
                 suma_examenes += nota;
-
             }
 
-            int promedio_examenes = suma_examenes / examenes.Length;
+            double promedio_examenes = (double)suma_examenes / examenes.Length;
+
             int Tps_aprovados = 0;
 
             for (int i = 0; i < TPs.Length; i++)
             {
-                Console.Write("Ingresar nota del TP " + (i + 1) + " : ");
+                Console.Write("Ingresar nota del TP " + (i + 1) + ": ");
                 int nota = int.Parse(Console.ReadLine());
 
                 if (nota >= 6)
@@ -41,9 +41,7 @@ namespace _2_VueltaAClases
                 }
             }
 
-            float porcentaje_aprovados = (TPs.Length / 4) * 3;
-
-            
+            int porcentaje_aprovados = (int)Math.Ceiling(TPs.Length * 0.75);
 
             if (promedio_examenes >= 6 && Tps_aprovados >= porcentaje_aprovados)
             {
